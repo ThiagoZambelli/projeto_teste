@@ -15,20 +15,9 @@
     ```bash
     docker-compose up
     ```
-
-## Como Testar
-
-1. Execute os testes unitários:
-    ```bash
-    npm test
-    ```
-
 ## Estrutura do Projeto
 
 - `mf_drawer`: Micro-frontend para navegação
 - `mf_videos`: Micro-frontend para busca e listagem de vídeos
 - `bff`: Backend for Frontend para comunicação com a API do YouTube
 
-## Contato
-
-Envie o link do repositório para frontend@icasei.com.br com o título 'Teste FrontEnd 2024'.
