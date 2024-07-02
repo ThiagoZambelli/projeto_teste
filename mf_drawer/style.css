@@ -1,0 +1,13 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+nav {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+}
